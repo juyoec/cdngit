@@ -29,18 +29,18 @@
         {
             "name": "JTBC",
             "children": [
-                {"name": "드라마JTBC","category":"드라마JTBC","value":"3534"},
-                {"name": "예능JTBC","category":"예능JTBC","value":"10534"},
-                {"name": "교양JTBC","category":"교양JTBC","value":"5534"},
-                {"name": "시사JTBC","category":"시사JTBC","value":"7534"}
+                {"name": "드라마JTBC","category":"JTBC","value":"3534"},
+                {"name": "예능JTBC","category":"JTBC","value":"10534"},
+                {"name": "교양JTBC","category":"JTBC","value":"5534"},
+                {"name": "시사JTBC","category":"JTBC","value":"7534"}
             ]
         },
         {
             "name": "TVN",
             "children": [
-                {"name": "드라마TVN","category":"드라마TVN","value":"7534"},
-                {"name": "연예오락TVN","category":"연예오락TVN","value":"3534"},
-                {"name": "인사이트TVN","category":"인사이트TVN","value":"8534"}
+                {"name": "드라마TVN","category":"TVN","value":"7534"},
+                {"name": "연예오락TVN","category":"TVN","value":"3534"},
+                {"name": "인사이트TVN","category":"TVN","value":"8534"}
             ]
         }
     ]
